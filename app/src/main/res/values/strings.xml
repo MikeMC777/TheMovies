@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheMovies</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="base_url">https://api.themoviedb.org/</string>
+    <string name="base_url_image">https://image.tmdb.org/t/p/w500</string>
+    <string name="tmbd_api_key">e2a11c9bf9b9748d5b07bdcad862cc6d</string>
+    <string name="tmbd_access_token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlMmExMWM5YmY5Yjk3NDhkNWIwN2JkY2FkODYyY2M2ZCIsInN1YiI6IjYwMTYwMTI1ODczZjAwMDAzY2E2NWJhOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.aiL2cEK-xu4FCQpgOFwEovuI3x2mPHmXPXXUgRqniKU</string>
+    <string name="movie_title">Título:</string>
+    <string name="movie_date">Fecha estreno:</string>
+    <string name="movie_lang">Idioma:</string>
+    <string name="movie_average">Puntuación:</string>
+    <string name="movie_adults">Adultos:</string>
+    <string name="movie_overview">Sinopsis:</string>
+</resources>
